@@ -15,6 +15,6 @@ import java.util.*;
 	}
 	// Driver code
 	public static void main(String args[]) {
-		int N = 50;   // Iterating over generator function
+		int N = 200;   // Iterating over generator function
 		NumGen(N);
 	}}
